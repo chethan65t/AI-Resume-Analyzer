@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "An HR recruitment assistant that compares candidate resumes against job descriptions to provide match percentage, matching skills, missing skills, and suitability summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
